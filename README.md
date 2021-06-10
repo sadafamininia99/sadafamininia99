@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning vuejs 
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me 
-https://twitter.com/sadafamininiia
-https://www.linkedin.com/in/sadafamininia/
+- 📞https://twitter.com/sadafamininiia
+- 📞https://www.linkedin.com/in/sadafamininia/
 
 
 <!---
