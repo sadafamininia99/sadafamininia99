@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
   
 
 <p align:"center">
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafamininia99)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=sadafamininia99") alt="sadafamininia99" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=alameenboss&show_icons=false" alt="alameenboss" /> -->
 </p>
 
 - 🔭 I’m currently working on **Vue.js**
