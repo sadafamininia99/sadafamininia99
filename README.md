@@ -12,7 +12,7 @@ sadafamininia99/sadafamininia99 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Sadaf</h1>
-<h3 align="center">Im frontend developer from iran</h3>
+<h3 align="center">Im frontend developer from Iran</h3>
   
 
 <p align="center">
@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=alameenboss&show_icons=false" alt="alameenboss" /> -->
 </p>
 
-<!-- (https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=dracula) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafamininia99=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=dracula)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafamininia99=true&theme=radical) -->
 
 
 
