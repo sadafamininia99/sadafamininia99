@@ -22,13 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Vuejs and javascript**
 
-- 👯 I’m looking to collaborate on [Workwise]()
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alameenboss&show_icons=false" alt="alameenboss" />
-</p>
-
-<p>
     <a href="https://codepen.io/amininia" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="alameenboss"
             height="20" width="20" />
