@@ -15,10 +15,12 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Im frontend developer from iran</h3>
   
 
-<p align:"center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadafamininia99") alt="sadafamininia99" />
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=alameenboss&show_icons=false" alt="alameenboss" /> -->
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 - 🔭 I’m currently working on **Vue.js**
 
