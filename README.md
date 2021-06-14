@@ -25,9 +25,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- 🔭 I’m currently working on **Vue.js**
+- 🔭 I’m currently working on **Java script**
 
-- 🌱 I’m currently learning **Vuejs and javascript**
+- 🌱 I’m currently learning **Vuejs**
 
 
     <a href="https://codepen.io/amininia" target="blank">
