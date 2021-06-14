@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=alameenboss&show_icons=false" alt="alameenboss" /> -->
 </p>
 
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=dracula)
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=tokyonight)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafamininia99=true&theme=radical) -->
 
 
