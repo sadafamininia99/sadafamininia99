@@ -26,21 +26,26 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alameenboss&show_icons=false" alt="alameenboss" />
+</p>
 
+<p>
     <a href="https://codepen.io/alameenboss" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="alameenboss"
             height="20" width="20" />
     </a>
-    
-    <a href="https://twitter.com/sadafamininiia" target="blank">
+    <a href="https://dev.to/alameenboss" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="alameenboss"
+            height="20" width="20" />
+    </a>
+    <a href="https://twitter.com/alameenboss" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alameenboss"
             height="20" width="20" />
     </a>
-    <a href="https://www.linkedin.com/in/sadafamininia/" target="blank">
+    <a href="https://linkedin.com/in/alameens" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alameens"
             height="20" width="20" />
     </a>
-    <a href="https://stackoverflow.com/users/10728990/sadaf" target="blank">
+    <a href="https://stackoverflow.com/users/2193640/ameen" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
             alt="alameenboss" height="20" width="20" />
     </a>
@@ -56,7 +61,7 @@ You can click the Preview link to take a look at your changes.
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="alameens"
             height="20" width="20" />
     </a>
-    <a href="https://www.instagram.com/girl._.codee/" target="blank">
+    <a href="https://www.instagram.com/its.alameen.boss/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alameenboss"
             height="20" width="20" />
     </a>
@@ -72,9 +77,9 @@ You can click the Preview link to take a look at your changes.
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@alameenboss"
             height="20" width="20" />
     </a> -->
-  <a href="https://www.youtube.com/channel/UCImHAgK2R4N8Hq3miFvJfQw" target="blank">
+    <!-- <a href="https://www.youtube.com/c/alameenboss" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="alameenboss"
-            height="20" width="20" />
+            height="20" width="20" /> -->
     </a>
 </p>
 
