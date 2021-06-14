@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Sadaf</h1>
 <h3 align="center">Im frontend developer from Iran</h3>
-  
+  <p align="center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafamininia99&show_icons=true&theme=radical)
-
+  </p>
          
 
 
@@ -26,16 +26,16 @@ You can click the Preview link to take a look at your changes.
 
 
     <a href="https://codepen.io/amininia" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="alameenboss"
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sadafamininia99"
             height="20" width="20" />
     </a>
    
     <a href="https://twitter.com/sadafamininiia" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alameenboss"
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sadafamininia99"
             height="20" width="20" />
     </a>
     <a href="https://www.linkedin.com/in/sadafamininia/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alameens"
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sadafamininia99"
             height="20" width="20" />
     </a>
     <a href="https://stackoverflow.com/users/10728990/sadaf" target="blank">
@@ -52,11 +52,11 @@ You can click the Preview link to take a look at your changes.
     </a> -->
     
     <a href="https://www.instagram.com/girl._.codee/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alameenboss"
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sadafamininia99"
             height="20" width="20" />
     </a>
      <a href="https://www.youtube.com/channel/UCImHAgK2R4N8Hq3miFvJfQw" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="alameenboss"
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sadafamininia99"
             height="20" width="20" />
     </a>
     <!-- <a href="https://dribbble.com/alameenboss" target="blank">
