@@ -29,23 +29,20 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p>
-    <a href="https://codepen.io/alameenboss" target="blank">
+    <a href="https://codepen.io/amininia" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="alameenboss"
             height="20" width="20" />
     </a>
-    <a href="https://dev.to/alameenboss" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="alameenboss"
-            height="20" width="20" />
-    </a>
-    <a href="https://twitter.com/alameenboss" target="blank">
+   
+    <a href="https://twitter.com/sadafamininiia" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alameenboss"
             height="20" width="20" />
     </a>
-    <a href="https://linkedin.com/in/alameens" target="blank">
+    <a href="https://www.linkedin.com/in/sadafamininia/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alameens"
             height="20" width="20" />
     </a>
-    <a href="https://stackoverflow.com/users/2193640/ameen" target="blank">
+    <a href="https://stackoverflow.com/users/10728990/sadaf" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
             alt="alameenboss" height="20" width="20" />
     </a>
@@ -57,11 +54,8 @@ You can click the Preview link to take a look at your changes.
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="alameenboss"
             height="20" width="20" />
     </a> -->
-    <a href="https://www.facebook.com/profile.php?id=100026691020738" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="alameens"
-            height="20" width="20" />
-    </a>
-    <a href="https://www.instagram.com/its.alameen.boss/" target="blank">
+    
+    <a href="https://www.instagram.com/girl._.codee/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alameenboss"
             height="20" width="20" />
     </a>
