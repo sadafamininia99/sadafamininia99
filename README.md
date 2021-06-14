@@ -21,7 +21,9 @@ You can click the Preview link to take a look at your changes.
 </p>
  -->
 <!-- (https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=tokyonight) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafamininia99&show_icons=true&theme=highcontrast)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafamininia99&show_icons=true&theme=highcontrast) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafamininia99=true&theme=radical) -->
 
