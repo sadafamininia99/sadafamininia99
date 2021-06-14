@@ -65,9 +65,9 @@ You can click the Preview link to take a look at your changes.
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@alameenboss"
             height="20" width="20" />
     </a> -->
-    <!-- <a href="https://www.youtube.com/c/alameenboss" target="blank">
+ <a href="https://www.youtube.com/channel/UCImHAgK2R4N8Hq3miFvJfQw" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="alameenboss"
-            height="20" width="20" /> -->
+            height="20" width="20" />
     </a>
 </p>
 
