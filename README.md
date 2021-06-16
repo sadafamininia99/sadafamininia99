@@ -18,33 +18,3 @@ From neverland !</h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafamininia99&show_icons=true&theme=radical)
 
  </P>
-
- 
-
-<p>
-    <a href="https://codepen.io/amininia" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sadafamininia"
-            height="20" width="20" />
-    </a>
-  
-    <a href="https://twitter.com/sadafamininiia" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sadafamininia"
-            height="20" width="20" />
-    </a>
-    
-    <a href="https://www.linkedin.com/in/sadafamininia/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sadafamininia"
-            height="20" width="20" />
-    </a>
-    <a href="https://stackoverflow.com/users/10728990/sadaf" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
-            alt="alameenboss" height="20" width="20" />
-    </a>
-
-    <a href="https://www.instagram.com/girl._.codee/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sadafamininia"
-            height="20" width="20" />
-    </a>
-  
-</p>
-
