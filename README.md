@@ -54,9 +54,6 @@ From neverland !</h3>
             height="20" width="20" />
     </a>
  
-  
-   
-    
 </p>
 
 
