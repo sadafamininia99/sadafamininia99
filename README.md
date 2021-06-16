@@ -1,7 +1,7 @@
  👋 Hi, I’m Sadaf Amininia99 
-- 👀 I’m interested in Js ,Vuejs
-- 🌱 I’m currently learning vuejs 
 - 💞️ I’m looking to collaborate on frontend projects
+- 🔭 I’m currently working on **Java script**
+- 🌱 I’m currently learning **Vuejs**
 - 📫 How to reach me 
 - 📞https://twitter.com/sadafamininiia
 - 📞https://www.linkedin.com/in/sadafamininia/
@@ -21,9 +21,6 @@ From neverland !</h3>
 
  </div>
 
-- 🔭 I’m currently working on **Java script**
-
-- 🌱 I’m currently learning **Vuejs**
 
 
     <a href="https://codepen.io/amininia" target="blank">
