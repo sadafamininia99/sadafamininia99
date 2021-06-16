@@ -1,4 +1,4 @@
- 👋 Hi, I’m @sadafamininia99 
+ 👋 Hi, I’m Sadaf Amininia99 
 - 👀 I’m interested in Js ,Vuejs
 - 🌱 I’m currently learning vuejs 
 - 💞️ I’m looking to collaborate on frontend projects
