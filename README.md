@@ -13,47 +13,40 @@
 Im a lost girl 
 From neverland !</h3>
 
- <div align="center"
+ <P align="center"
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafamininia99&show_icons=true&theme=radical)
 
-         
- </div>
+ </P>
 
 
- 
- <p>
-   <a href="https://codepen.io/amininia" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sadafamininia99"
+<p>
+    <a href="https://codepen.io/alameenboss" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="alameenboss"
             height="20" width="20" />
     </a>
- 
-    <a href="https://stackoverflow.com/users/10728990/sadaf" target="blank">
+  
+    <a href="https://twitter.com/alameenboss" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alameenboss"
+            height="20" width="20" />
+    </a>
+    <a href="https://linkedin.com/in/alameens" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alameens"
+            height="20" width="20" />
+    </a>
+    <a href="https://stackoverflow.com/users/2193640/ameen" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
             alt="alameenboss" height="20" width="20" />
     </a>
-   
+    
+    <a href="https://www.facebook.com/profile.php?id=100026691020738" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="alameens"
+            height="20" width="20" />
+    </a>
+    <a href="https://www.instagram.com/its.alameen.boss/" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alameenboss"
+            height="20" width="20" />
+    </a>
   
-    <a href="https://www.instagram.com/girl._.codee/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sadafamininia99"
-            height="20" width="20" />
     </a>
- 
-    <a href="https://www.youtube.com/channel/UCImHAgK2R4N8Hq3miFvJfQw" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sadafamininia99"
-            height="20" width="20" />
-    </a>
-
-   <a href="https://twitter.com/sadafamininiia" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sadafamininia99"
-            height="20" width="20" />
-    </a>
- 
-   <a href="https://www.linkedin.com/in/sadafamininia/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sadafamininia99"
-            height="20" width="20" />
-    </a>
- 
-</p>
-
 
