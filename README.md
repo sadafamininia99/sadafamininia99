@@ -27,16 +27,6 @@ From neverland !</h3>
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sadafamininia99"
             height="20" width="20" />
     </a>
-
-   <a href="https://twitter.com/sadafamininiia" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sadafamininia99"
-            height="20" width="20" />
-    </a>
- 
-   <a href="https://www.linkedin.com/in/sadafamininia/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sadafamininia99"
-            height="20" width="20" />
-    </a>
  
     <a href="https://stackoverflow.com/users/10728990/sadaf" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
@@ -53,6 +43,17 @@ From neverland !</h3>
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sadafamininia99"
             height="20" width="20" />
     </a>
+
+   <a href="https://twitter.com/sadafamininiia" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sadafamininia99"
+            height="20" width="20" />
+    </a>
+ 
+   <a href="https://www.linkedin.com/in/sadafamininia/" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sadafamininia99"
+            height="20" width="20" />
+    </a>
+ 
   
    
     
