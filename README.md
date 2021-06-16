@@ -1,18 +1,17 @@
-<!--- 👋 Hi, I’m @sadafamininia99 
+ 👋 Hi, I’m @sadafamininia99 
 - 👀 I’m interested in Js ,Vuejs
 - 🌱 I’m currently learning vuejs 
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me 
 - 📞https://twitter.com/sadafamininiia
 - 📞https://www.linkedin.com/in/sadafamininia/
--->
 
-<!---
-sadafamininia99/sadafamininia99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
 <h1 align="center">Hi 👋, I'm Sadaf</h1>
-<h3 align="center">Im frontend developer from Iran</h3>
+<h3 align="center">
+Im a lost girl 
+From neverland !</h3>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafamininia99&show_icons=true&theme=radical)
 
