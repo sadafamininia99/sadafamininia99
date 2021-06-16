@@ -43,10 +43,7 @@ From neverland !</h3>
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"
             alt="alameenboss" height="20" width="20" />
     </a> -->
-    <!-- <a href="https://kaggle.com/alameenboss" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="alameenboss"
-            height="20" width="20" />
-    </a> -->
+  
     
     <a href="https://www.instagram.com/girl._.codee/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sadafamininia99"
@@ -56,19 +53,7 @@ From neverland !</h3>
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sadafamininia99"
             height="20" width="20" />
     </a>
-    <!-- <a href="https://dribbble.com/alameenboss" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="alameenboss"
-            height="20" width="20" />
-    </a> -->
-    <!-- <a href="https://www.behance.net/alameenboss" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="alameenboss"
-            height="20" width="20" />
-    </a> -->
-    <!-- <a href="https://medium.com/@alameenboss" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@alameenboss"
-            height="20" width="20" />
-    </a> -->
-
+  
 </p>
 
 
