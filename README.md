@@ -1,4 +1,4 @@
- 👋 Hi, I’m Sadaf Amininia99 
+ 👋 Hi, I’m Sadaf Amini Nia 
 - 💞️ I’m looking to collaborate on frontend projects
 - 🔭 I’m currently working on **Java script**
 - 🌱 I’m currently learning **Vuejs**
