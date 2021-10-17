@@ -1,7 +1,7 @@
  👋 Hi, I’m Sadaf Amini Nia 
 - 💞️ I’m looking to collaborate on frontend projects
 - 🔭 I’m currently working on **Java script**
-- 🌱 I’m currently learning **Vuejs**
+- 🌱 I’m currently learning **React.js**
 - 📫 How to reach me 
 - 📞https://twitter.com/sadafamininiia
 - 📞https://www.linkedin.com/in/sadafamininia/
