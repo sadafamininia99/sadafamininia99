@@ -20,6 +20,7 @@
 
 </p>
 
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
 
 <h1 align="center">Hi 👾, I'm Sadaf</h1>
