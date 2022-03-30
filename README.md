@@ -2,8 +2,8 @@
 
 ![Github Banner](https://github.com/sepehr-dh99/sepehr-dh99/blob/master/assets/banner.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=8206AE&background=FF2C0000&multiline=true&lines=Frontend+Developer)](https://git.io/typing-svg)
-<p><img align="right" src="https://github.com/sepehr-dh99/sepehr-dh99/blob/master/assets/animation_500_kxa883sd.gif" alt="sepehr" /></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F9DAE&background=FF2C0000&multiline=true&lines=Frontend+Developer)](https://git.io/typing-svg)
+<p><img align="right" src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" alt="sepehr" /></p>
 
 
 - 📫 How to reach me **sadaf.amininiaa@gmail.com**
