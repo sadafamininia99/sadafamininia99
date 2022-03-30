@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👾, I'm Sepehr Dehghani</h1>
+<h1 align="center">Hi 😇, I'm sadaf Amininia</h1>
 
 ![Github Banner](https://github.com/sepehr-dh99/sepehr-dh99/blob/master/assets/banner.png)
 
@@ -6,33 +6,31 @@
 
 <p><img align="right" src="https://github.com/sepehr-dh99/sepehr-dh99/blob/master/assets/animation_500_kxa883sd.gif" alt="sepehr" /></p>
 
-- 🌱 Frontend Developer with 5 years of experience!
+<!-- - 🌱 Frontend Developer with 5 years of experience! -->
 
-- 📫 How to reach me **sepehr.dh99@gmail.com**
+- 📫 How to reach me **sadaf.amininiaa@gmail.com
+**
 
-- ⚡ Fun fact :- music and code are the reasons to live.
+<!-- - ⚡ Fun fact :- music and code are the reasons to live. -->
 
 <br>
 
 ## 📠 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sepehr-dehghani/" target="blank">
+  <a href="https://www.linkedin.com/in/sadafamininia/" target="blank">
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
-<a href="https://instagram.com/sepehr.develop?utm_medium=copy_link" target="blank">
+<a href="https://www.instagram.com/girl._.codee/" target="blank">
 
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 </a>
-<a href="https://twitter.com/sep4everr" target="blank">
+<a href="https://twitter.com/sadafamininiia" target="blank">
 
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 </a>
-<a href="https://stackoverflow.com/users/14765965/sepehr-dehghani" target="blank">
 
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-</a>
 
 </p>
 
