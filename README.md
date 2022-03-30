@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😇, I'm sadaf Amininia</h1>
+<h1 align="center">Hi 😇  I'm sadaf Amininia</h1>
 
 ![Github Banner](https://github.com/sepehr-dh99/sepehr-dh99/blob/master/assets/banner.png)
 
@@ -8,8 +8,7 @@
 
 <!-- - 🌱 Frontend Developer with 5 years of experience! -->
 
-- 📫 How to reach me **sadaf.amininiaa@gmail.com
-**
+- 📫 How to reach me **sadaf.amininiaa@gmail.com**
 
 <!-- - ⚡ Fun fact :- music and code are the reasons to live. -->
 
@@ -42,17 +41,12 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+<!-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![NEXT](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-<!-- ![NODE](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) -->
-<!-- ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) -->
-<!-- ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
-<!-- ![DENO](https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647) -->
-<!-- ![EXPRESS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) -->
 
 </p>
 
@@ -62,7 +56,7 @@
 
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sepehr-dh99&show_icons=true&theme=ayu-mirage&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sadafamininia99&show_icons=true&theme=ayu-mirage&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sepehr-dh99&theme=ayu-mirage&hide_border=true" />
   </a>
 </p>
