@@ -2,11 +2,10 @@
 
 ![Github Banner](https://github.com/sepehr-dh99/sepehr-dh99/blob/master/assets/banner.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230E99D2&center=true&vCenter=true&width=200&height=30&lines=Frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230E99D2&center=true&vCenter=true&width=200&height=30&lines=frontend+developer)](https://git.io/typing-svg)
 
 <p><img align="right" src="https://github.com/sepehr-dh99/sepehr-dh99/blob/master/assets/animation_500_kxa883sd.gif" alt="sepehr" /></p>
 
-<!-- - 🌱 Frontend Developer with 5 years of experience! -->
 
 - 📫 How to reach me **sadaf.amininiaa@gmail.com**
 
@@ -61,4 +60,4 @@
   </a>
 </p>
 
-[![Sadaf Amininia's Activity Graph](https://activity-graph.herokuapp.com/graph?username=sadafamininia99&custom_title=Sepehr%20Dehghani's%20Contribution%20Graph&theme=react&bg_color=1F2430&hide_border=true&line=d1a01f&point=c58545)](https://dehghani.me)
+[![Sadaf Amininia's Activity Graph](https://activity-graph.herokuapp.com/graph?username=sadafamininia99&custom_title=sadaf%amininia99%20Contribution%20Graph&theme=react&bg_color=1F2430&hide_border=true&line=d1a01f&point=c58545)](https://dehghani.me)
