@@ -1,6 +1,6 @@
 <h1 align="center">Hi 😇  I'm sadaf Amininia</h1>
 
-![Github Banner](https://github.com/sepehr-dh99/sepehr-dh99/blob/master/assets/banner.png)
+![Github Banner](https://github.com/sadafamininia99/sadafamininia99/blob/main/banner%20(2).png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F9DAE&background=FF2C0000&multiline=true&lines=Frontend+Developer)](https://git.io/typing-svg)
 
