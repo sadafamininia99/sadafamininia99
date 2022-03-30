@@ -3,13 +3,11 @@
 ![Github Banner](https://github.com/sepehr-dh99/sepehr-dh99/blob/master/assets/banner.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F9DAE&background=FF2C0000&multiline=true&lines=Frontend+Developer)](https://git.io/typing-svg)
-<!-- <p><img align="right" src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" alt="sadaf amininia" /></p>
+
 <p>
   <img align="right" src="https://camo.githubusercontent.com/1a7e76c236c9fdf44d411106849a7e195825df02abfed1c7ee3f699732023293/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323334333435392f73637265656e73686f74732f31343339333730392f6d656469612f31663736623338626665653662313238326366386131656332623737336639632e676966" alt="sadaf"/>
-  </p> -->
-  <p>  <img align="right" alt="Coding" height="249" width="350" src="https://cdn.dribbble.com/users/2343459/screenshots/14393709/media/1f76b38bfee6b1282cf8a1ec2b773f9c.gif" alt="sadafa mininia" >
-  </p>
-
+  </p> 
+  
 
 
 
