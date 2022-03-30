@@ -1,4 +1,4 @@
- 👋 Hi, I’m Sadaf Amini Nia 
+<!--  👋 Hi, I’m Sadaf Amini Nia 
 - 💞️ I’m looking to collaborate on frontend projects😍😍
 - 🔭 I’m currently working on **Reactjs**
 - 🌱 I’m currently learning **Next.js**
@@ -14,7 +14,7 @@
 <!-- .[![codepen].(https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]( -->
 
 
-
+<!-- 
 
 <p>
   
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-</p>
+</p> -->
 <!-- 
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sadafamininia99&repo=Hangman-Game&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
@@ -38,13 +38,14 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
  -->
-<h1 align="center">Hi 👾, I'm Sadaf</h1>
+<!-- <h1 align="center">Hi 👾, I'm Sadaf</h1>
 <!-- <h3 align="center">
 Im a lost girl 
 From neverland !</h3>
  -->
- <P align="center"
+<!--  <P align="center"
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafamininia99&show_icons=true&theme=radical)
-
- </P>
+ -->
+<!--  </P> -->
+<!--  --> --> -->
