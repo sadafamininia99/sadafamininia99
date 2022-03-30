@@ -7,7 +7,7 @@
 <p>
   <img align="right" src="https://camo.githubusercontent.com/1a7e76c236c9fdf44d411106849a7e195825df02abfed1c7ee3f699732023293/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323334333435392f73637265656e73686f74732f31343339333730392f6d656469612f31663736623338626665653662313238326366386131656332623737336639632e676966" alt="sadaf"/>
   </p> -->
-  <p>  <img align="right" alt="Coding" height="250" width="350" src="https://cdn.dribbble.com/users/2343459/screenshots/14393709/media/1f76b38bfee6b1282cf8a1ec2b773f9c.gif" alt="sadafa mininia" >
+  <p>  <img align="right" alt="Coding" height="300" width="350" src="https://cdn.dribbble.com/users/2343459/screenshots/14393709/media/1f76b38bfee6b1282cf8a1ec2b773f9c.gif" alt="sadafa mininia" >
   </p>
 
 
