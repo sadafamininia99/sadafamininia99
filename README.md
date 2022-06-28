@@ -64,4 +64,3 @@
   </a>
 </p>
 
-[![Sadaf Amininia's github activity graph](https://activity-graph.herokuapp.com/graph?username=sadafamininia99&theme=react-dark	)](https://github.com/sadafamininia99/github-readme-activity-graph)
