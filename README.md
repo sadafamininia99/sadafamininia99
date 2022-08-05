@@ -3,6 +3,8 @@
 ![Github Banner](https://github.com/sadafamininia99/sadafamininia99/blob/main/banner%20(2).png)
 
 ![](https://komarev.com/ghpvc/?username=sadafamininia99)
+
+![](https://komarev.com/ghpvc/?usernamee=sadafamininia99&style=flat-square)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F9DAE&background=FF2C0000&multiline=true&lines=Frontend+Developer)](https://git.io/typing-svg)
 
 <p>
