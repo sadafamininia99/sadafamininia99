@@ -1,68 +1,24 @@
-<h1 align="center">Hi 😇  I'm sadaf Amininia</h1>
+<h1 align="center">Hi 👋, I'm Sadaf Amini0nia</h1>
+<h3 align="center">frontend developer from Iran</h3>
 
-![Github Banner](https://github.com/sadafamininia99/sadafamininia99/blob/main/banner%20(2).png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadafamininia99&label=Profile%20views&color=0e75b6&style=flat" alt="sadafamininia99" /> </p>
 
-<!-- ![](https://komarev.com/ghpvc/?username=sadafamininia99) -->
-![](https://komarev.com/ghpvc/?username=sadafamininia99&label=PROFILE+VIEWS)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadafamininia99" alt="sadafamininia99" /></a> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F9DAE&background=FF2C0000&multiline=true&lines=Frontend+Developer)](https://git.io/typing-svg)
+<p align="left"> <a href="https://twitter.com/https://twitter.com/sadafamininiia" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sadafamininiia?logo=twitter&style=for-the-badge" alt="https://twitter.com/sadafamininiia" /></a> </p>
 
-<p>
-  <img align="right" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/giphy.gif" alt="sadaf"/>
-  </p> 
-  
-
-
-
-- 📫 How to reach me **sadaf.amininiaa@gmail.com**
-
-<!-- - ⚡ Fun fact :- music and code are the reasons to live. -->
-
-<br>
-
-## 📠 Connect with me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sadafamininia/" target="blank">
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
-<a href="https://www.instagram.com/girl._.codee/" target="blank">
-
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-</a>
-<a href="https://twitter.com/sadafamininiia" target="blank">
-
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-</a>
-
-
+<a href="https://codepen.io/https://codepen.io/amininia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/amininia" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/sadafamininiia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sadafamininiia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sadafamininia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadafamininia/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/girl._.codee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/girl._.codee/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucimhagk2r4n8hq3mifvjfqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucimhagk2r4n8hq3mifvjfqw" height="30" width="40" /></a>
 </p>
 
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
-## 🛠 Technologies and Languages
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadafamininia99&show_icons=true&locale=en&layout=compact" alt="sadafamininia99" /></p>
 
-<p align="left">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![NEXT](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-</p>
-
-<br>
-
-## 📊 My Statistics
-
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sadafamininia99&show_icons=true&theme=ayu-mirage&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sadafamininia99&theme=ayu-mirage&hide_border=true" />
-  </a>
-</p>
-
-[![Sadaf Amininia's github activity graph](https://activity-graph.herokuapp.com/graph?username=sadafamininia99&theme=react-dark	)](https://github.com/sadafamininia99/github-readme-activity-graph)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadafamininia99&show_icons=true&locale=en" alt="sadafamininia99" /></p>
