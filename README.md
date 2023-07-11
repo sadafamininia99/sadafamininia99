@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Sadaf and I'm a Frontend Developer, from Iran</h2>
 
-###
 
  
 
@@ -9,10 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadafamininia99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -31,8 +28,6 @@
 </div>
 
 
-###
-
 
 <div align="left">
   <a href="https://mail.google.com/aminicomputer96@gmail.com" target="_blank">
@@ -45,7 +40,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-###
 
 <br clear="both">
 
