@@ -52,3 +52,10 @@
   <img src="https://streak-stats.demolab.com?user=sadafamininia99&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+
+  <div align="center">
+    <a href="https://open.spotify.com/user/31sel2232545xdrufy5azc5m5dti">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+    </a>
+  </div>
+
