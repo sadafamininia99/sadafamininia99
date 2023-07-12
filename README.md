@@ -39,7 +39,7 @@
   <a href="https://twitter.com/sadafamininiia" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
- <a href="https://instagram.com/girl._.codee?igshid=MzRlODBiNWFlZA=="/>
+ <a href="https://instagram.com/girl._.codee?"/>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
  <a href="https://medium.com/@sadafamininia"/>
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
